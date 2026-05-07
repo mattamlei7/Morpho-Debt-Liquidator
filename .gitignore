@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+liquidator.log*
+out/
+cache/
+broadcast/
+lib/
+candidate_classifier.jsonl
+candidate_classifier.jsonl.bak
+coverage_scout.jsonl
+venue_scout.jsonl
+step5_sim.jsonl
+candidate_classifier.md
+coverage_scout.md
+venue_scout.md
